@@ -1,0 +1,12 @@
+c:\users\licsistemas\documents\visual studio 2013\Projects\Guia2Reynaldo\Guia2Reynaldo\bin\Debug\Guia2Reynaldo.exe.config
+c:\users\licsistemas\documents\visual studio 2013\Projects\Guia2Reynaldo\Guia2Reynaldo\bin\Debug\Guia2Reynaldo.exe
+c:\users\licsistemas\documents\visual studio 2013\Projects\Guia2Reynaldo\Guia2Reynaldo\bin\Debug\Guia2Reynaldo.pdb
+c:\users\licsistemas\documents\visual studio 2013\Projects\Guia2Reynaldo\Guia2Reynaldo\obj\Debug\Guia2Reynaldo.csprojResolveAssemblyReference.cache
+c:\users\licsistemas\documents\visual studio 2013\Projects\Guia2Reynaldo\Guia2Reynaldo\obj\Debug\Guia2Reynaldo.exe
+c:\users\licsistemas\documents\visual studio 2013\Projects\Guia2Reynaldo\Guia2Reynaldo\obj\Debug\Guia2Reynaldo.pdb
+C:\proyectos\PracticasReynaldo\Guia2Reynaldo\Guia2Reynaldo\bin\Debug\Guia2Reynaldo.exe.config
+C:\proyectos\PracticasReynaldo\Guia2Reynaldo\Guia2Reynaldo\obj\Debug\Guia2Reynaldo.exe
+C:\proyectos\PracticasReynaldo\Guia2Reynaldo\Guia2Reynaldo\obj\Debug\Guia2Reynaldo.pdb
+C:\proyectos\PracticasReynaldo\Guia2Reynaldo\Guia2Reynaldo\bin\Debug\Guia2Reynaldo.exe
+C:\proyectos\PracticasReynaldo\Guia2Reynaldo\Guia2Reynaldo\bin\Debug\Guia2Reynaldo.pdb
+C:\proyectos\PracticasReynaldo\Guia2Reynaldo\Guia2Reynaldo\obj\Debug\Guia2Reynaldo.csprojResolveAssemblyReference.cache
